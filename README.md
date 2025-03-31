@@ -1,1 +1,17 @@
-IyBNQ1AgU2VydmVyIE1lcmFraQoKU2VydmV1ciBNQ1AgKE1vZGVsLUNvbnRyb2xsZXItUHJvdmlkZXIpIHBvdXIgbCdBUEkgTWVyYWtpLiBDZSBwcm9qZXQgZm91cm5pdCB1bmUgaW50ZXJmYWNlIHN0YW5kYXJkaXPDqWUgcG91ciBpbnRlcmFnaXIgYXZlYyBsJ2luZnJhc3RydWN0dXJlIE1lcmFraSB2aWEgZGVzIG91dGlscyBNQ1AuCgojIyDwn5qAIMOAIHZlbmlyCgotIExpc3RlIGRlcyBvcmdhbmlzYXRpb25zIE1lcmFraQotIExpc3RlIGRlcyByw6lzZWF1eCBwYXIgb3JnYW5pc2F0aW9uCi0gTGlzdGUgZGVzIMOpcXVpcGVtZW50cyBwYXIgcsOpc2VhdQotIEdlc3Rpb24gZGVzIGludGVyZmFjZXMKLSBDb25maWd1cmF0aW9uIGRlcyBwb3J0cyBzd2l0Y2gKLSBHZXN0aW9uIGR1IHNhbnMtZmlsCi0gU3RhdGlzdGlxdWVzIGRlIHBlcmZvcm1hbmNlCgojIyDwn5OEIExpY2VuY2UKCkNlIHByb2pldCBlc3Qgc291cyBsaWNlbmNlIE1JVC4=
+# MCP Server Meraki
+
+Serveur MCP (Model-Controller-Provider) pour l'API Meraki. Ce projet fournit une interface standardisée pour interagir avec l'infrastructure Meraki via des outils MCP.
+
+## 🚀 À venir
+
+- Liste des organisations Meraki
+- Liste des réseaux par organisation
+- Liste des équipements par réseau
+- Gestion des interfaces
+- Configuration des ports switch
+- Gestion du sans-fil
+- Statistiques de performance
+
+## 📄 Licence
+
+Ce projet est sous licence MIT.
